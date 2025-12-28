@@ -212,7 +212,7 @@ Final: 根据搜索结果，关于钱的存放位置...
 如果你有任何问题，请通过以下方式联系：
 
 - 提交 [Issue](https://github.com/yourusername/mini-agent-framework/issues)
-- 发送邮件到：your.email@example.com
+- 发送邮件到：youlan@gmail.com
 
 ## 🙏 致谢
 
