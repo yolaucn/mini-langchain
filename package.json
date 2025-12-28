@@ -1,0 +1,40 @@
+{
+  "name": "mini-agent-framework",
+  "version": "1.0.0",
+  "description": "一个轻量级的智能体框架，展示如何构建简单的 AI Agent 系统，类似 Mini LangChain",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "test": "node test.js",
+    "agent": "node index.js"
+  },
+  "keywords": [
+    "agent",
+    "ai-agent",
+    "langchain",
+    "mini-langchain",
+    "llm",
+    "openai",
+    "framework",
+    "nodejs",
+    "demo",
+    "tutorial",
+    "智能体",
+    "教学"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/mini-agent-framework.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/mini-agent-framework/issues"
+  },
+  "homepage": "https://github.com/yourusername/mini-agent-framework#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
